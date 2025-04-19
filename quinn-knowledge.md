@@ -72,3 +72,5 @@ This treatment uses a handpiece similar to a speculum to place a laser inside th
 
 ## Vein Removal
 A 1064 wavelength laser can be used to treat spider veins and reticular veins on the face and legs. Multiple treatments may be needed and can be done on most skin types.
+
+## Contact Information
